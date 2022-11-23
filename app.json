@@ -3,6 +3,9 @@
     "name": "WarungAsSalam",
     "slug": "WarungAsSalam",
     "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./app/assets/AppIcon.png",
+    "userInterfaceStyle": "light",
     "assetBundlePatterns": [
       "**/*"
     ]
