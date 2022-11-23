@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "WarungAsSalam",
+    "slug": "WarungAsSalam",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
